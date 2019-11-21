@@ -80,7 +80,7 @@ background-color: #2d3950;
 .banner-section{
     background-image: url(../images/banner.jpg);
     background-repeat: no-repeat;
-   
+    background-size: cover;
     min-height: 100vh;
     /* text-align: center; */
     position: relative;
